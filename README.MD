@@ -42,7 +42,7 @@ Projeto acadêmico integrando visão computacional com dispositivos físicos via
 
 ### Bibliotecas Python
 
-```bash
+```py
 pip install matplotlib opencv-python notebook numpy pyserial mediapipe
 ```
 
@@ -110,7 +110,7 @@ void loop() {
 
 Execute o jogo com:
 
-```bash
+```py
 python jogo_piscada.py
 ```
 
